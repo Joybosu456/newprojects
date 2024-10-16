@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    padding: 10px;
+    gap: 500px;
+}
+.header-right{
+    display: flex;
+    gap: 20px;
+}
